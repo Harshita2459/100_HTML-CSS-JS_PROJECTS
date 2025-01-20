@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-family: "Jersey 15", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+
+.heading {
+    font-size: 8rem;
+    font-family: "Archivo", serif;
+    font-optical-sizing: auto;
+    font-variation-settings:
+        "wdth" 100;
+
+    background: url(https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
