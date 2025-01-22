@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background: url(christine-walker-eohDtrmqFXA-unsplash.jpg);
+    color: #fff;
+}
+
+p {
+    font-size: 3rem;
+}
+
+.js {
+    color: rgb(2, 57, 53);
+}
+
+.typed-text {
+    color: #260ec2;
+}
+
+.cursor {
+    background: #20c20e;
+}
