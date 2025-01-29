@@ -111,7 +111,6 @@ header {
     cursor: pointer;
 }
 
-/* JavaScript */
 .modal-container.show-modal {
     display: block;
 }
